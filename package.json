@@ -1,0 +1,15 @@
+{
+  "name": "node-app-docker-swarm",
+  "version": "0.0.1",
+  "description": "test ecs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khang Hoang <hoangtrieukhang@gmail.com> (https://twitter.com/khanght)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "external-ip": "^0.2.4"
+  }
+}
